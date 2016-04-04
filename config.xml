@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<widget xmlns = "http://www.w3.org/ns/widgets"
+		xmlns:gap = "http://phonegap.com/ns/1.0"
+		id        = "com.aytovoto.appaytovoto"
+		versionCode=""
+		version   = "1.5">
+		<name>appaytovoto</name>
+		<description>
+Aplicacion de los Ayuntamientos del Voto de Nuestra Señora Virgen del Camino.		</description>
+		<author href="" email="tonimellado@gmail.com">
+Web-master Toni Mellado
+		</author>
+		<preference name="phonegap-version" value="cli-5.2.0" 
